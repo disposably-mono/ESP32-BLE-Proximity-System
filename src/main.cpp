@@ -16,9 +16,9 @@ const long  gmtOffset_sec = 28800;
 const int   daylightOffset_sec = 0;
 const char* ntpServer = "pool.ntp.org";
 
-const int SCAN_INTERVAL = 30;
+const int SCAN_INTERVAL = 10;
 const int SCAN_DURATION = 5;
-const int MAX_DEVICES = 100;
+const int MAX_DEVICES = 50;
 const int MAX_HISTORY = 100;
 
 // ===== Web Server =====
