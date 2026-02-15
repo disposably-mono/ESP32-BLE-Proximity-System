@@ -1,5 +1,5 @@
 
-```markdown
+
 
 # OLPS Smart Proximity System
 
@@ -65,5 +65,3 @@ Adjust these parameters in code:
 
 MIT License
 ```
-
-This README provides all the essential information about your project in a clean, organized format.
