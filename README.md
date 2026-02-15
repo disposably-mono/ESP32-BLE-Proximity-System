@@ -1,6 +1,6 @@
-Here's a concise README for your BLE proximity scanner project:
 
 ```markdown
+
 # OLPS Smart Proximity System
 
 An ESP32-based BLE device scanner with web dashboard and real-time proximity monitoring.
